@@ -2,9 +2,9 @@
 ##### Needs: a flexible function that can work with 1 or more conditions, variable numbers of electrodes, different EEG signals. Assuming 1 subject at a time.
 ##### Outputs: Channel response function structure, with fields
 
-1) Setting paths and dependencies
+1) Setting paths and dependencies 
    a) Input: actual pathnames and dependencies 
-   b) Output: EM structure (encoding model)  
+   b) Output: EM structure (encoding model) 
 	  i) Datapath, analysispath, sjID, dependencies  
 2)	Set analysis parameters
 	a) Input: EM structure from step 1
