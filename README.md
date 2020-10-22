@@ -2,9 +2,9 @@
 ##### Needs: a flexible function that can work with 1 or more conditions, variable numbers of electrodes, different EEG signals. Assuming 1 subject at a time.
 ##### Outputs: Channel response function structure, with fields
 
-1. First list item   
+1) First list item   
    a) First nested list item
-     1) Second nested list item
+     i) Second nested list item
 
 1) Setting paths and dependencies   
    a) Input: actual pathnames and dependencies   
