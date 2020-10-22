@@ -4,7 +4,7 @@
 
 1) First list item   
    a) First nested list item   
-     i) Second nested list item
+      i) Second nested list item
 
 1) Setting paths and dependencies   
    a) Input: actual pathnames and dependencies   
