@@ -8,7 +8,7 @@
 
 1) Setting paths and dependencies   
    a) Input: actual pathnames and dependencies   
-   b) Output: EM structure (encoding model)   
+   b) Output: EM structure (encoding model)
      i) Datapath, analysispath, sjID, dependencies  
 2)	Set analysis parameters
 	a) Input: EM structure from step 1
